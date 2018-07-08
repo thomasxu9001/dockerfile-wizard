@@ -6,7 +6,7 @@ image_config: &image_config
 
   IMAGE_NAME: ferguscircleci
 
-  IMAGE_TAG: testserver
+  IMAGE_TAG: testservers
 
   # NOTE: if you're modifying this config.yml file manually
   # rather than using the included setup script,
